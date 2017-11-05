@@ -1,9 +1,7 @@
-# Head-First-HTML-CSS-
-网络的第一步
+Head & First 书中的网页还原
 <html>
 	<head>
 		<title>Head First Lounge</title>
-		<!-->第一个页面<-->
 	</head>
 	<body>
 		<h1>Welcome to the Head First Lounge<h1>
